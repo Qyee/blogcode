@@ -1,3 +1,3 @@
-github.com/Qyee/blogcode
+module blogcode
 
 go 1.16
